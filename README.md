@@ -13,6 +13,7 @@ Why We Do This：
 With an improvement of societal ideogogy, more people opt to pick a healthier menu for their daily meals. Also, we can find the fact that many of them take part of time working out at gyms. However, because of the lack of professional knowledge of both nutriology and method of doing exercise, tyros may make a detour on their way to fitness. Therefore, we plan to utilize information from twitter users to offer themselves an opportunity to move on in an efficient way.
 
 User Story
+
 As a general twitter user, I would like to find some congenial guys that we could form a working-out group, then mutually encourage everyone to clock in everyday, in order to augment the possibility of persistance, also to seek guide from the advanced.
 
 As fitness instructors or enterprises, we want to know who are the potential clients with a desire to seek for professional instructions online or offline to keep fit, so that we could put ads exactly on these targeted twitter users to attract them.
